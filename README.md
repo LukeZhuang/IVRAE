@@ -1,2 +1,2 @@
 # IVAE
-code of "Introspective Recurrent Variational Auto-Encoder"
+code of "Introspective Variational Recurrent Auto-Encoder"
