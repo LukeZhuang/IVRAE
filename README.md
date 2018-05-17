@@ -1,2 +1,2 @@
 # IVAE
-Implementation of "Introspective Variational Auto-Encoder"
+code of "Introspective Variational Auto-Encoder"
