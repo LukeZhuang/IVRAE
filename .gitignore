@@ -2,4 +2,4 @@
 __pycache__
 svhn/svhn_all.npy
 celeba/celeba.npy
-parameters/IVRAE
+parameters
